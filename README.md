@@ -1,16 +1,16 @@
 # Comentario para el profesor Diego 👨‍🏫
 
-Este repositorio fue creado como entrega principal de mi portafolio personal, desarrollado como parte del curso de Desarrollo Web.
+El link de la git hub de mi repo es (https://alejodevel.github.io/) En lugar de crear página adicional para portafolio, lo hice en la misma landpage, y esta linkeado desde la para de navegacion en la opcion Portfolio
 
 Además, realicé forks y modificaciones en los siguientes repositorios de compañeros:
 
-- [juanperez-flexbox](https://github.com/alejodevel/juanperez-flexbox)  
-  Proyecto original de Juan Pérez.  
-  Cambios: corrección en la disposición de tarjetas, mejora en responsividad y organización de CSS.
+- [pablitodev1] (https://github.com/alejodevel/Desafio_final) 
+    
+  Cambios: se crea carrousel con bootstrap para elementos de Educacion y Experiencia
 
-- [mariagomez-landingpage](https://github.com/alejodevel/mariagomez-landingpage)  
-  Proyecto original de María Gómez.  
-  Cambios: retoques de UI en el hero section, optimización para pantallas pequeñas.
+- [Shormiga] (https://github.com/alejodevel/GithubPrueba)  
+  
+  Cambios: se agrega style en el head para darle estilos como sombra color y forma al container principal
 
 ---
 
